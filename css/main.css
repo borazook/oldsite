@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Kanit&display=swap');
+body {
+	background: rgb(82, 82, 82);
+	font-family: 'Kanit', sans-serif;
+}
+.navbar{
+	text-align: center;
+}
+.navbargrid{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-gap: 30px;
+}
+.btn{
+	background: white;
+	font-size: 200%;
+	border-radius: 15px;
+	color: inherit;
+	text-decoration: none;
+}
+.pageheading {
+	background: slategrey;
+	text-align: center;
+	font-size: 100%;
+	margin-top: 0px;
+	color:white;
+}
+.paragraph1 {
+	margin-bottom: 10px;
+	font-size: 350%;
+	margin-top: 10px;
+}
+.paragraph2 {
+	margin-top: 0px;
+	font-size: 150%;
+	margin-bottom:10px;
+}
+
+
